@@ -1,0 +1,15 @@
+package com.codegym.task.task15.task1529;
+
+public class Plane implements CanFly {
+    private int passenger;
+
+    public Plane (int  passenger){
+        this.passenger = passenger;
+
+    }
+
+    @Override
+    public void fly() {
+
+    }
+}
