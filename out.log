@@ -869,3 +869,72 @@
 2020-03-12 21:17:25 INFO  ApacheHttpClient.sendEvent(528) - responseCode = 200
 2020-03-12 21:18:25 INFO  ApacheHttpClient.sendEvent(528) - responseCode = 200
 2020-03-12 21:19:25 INFO  ApacheHttpClient.sendEvent(528) - responseCode = 200
+2020-03-12 22:19:08 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-03-12 22:19:09 INFO  ApacheHttpClient.getTask(481) - responseCode = 200
+2020-03-12 22:19:09 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-03-12 22:19:09 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-03-15 15:24:13 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-03-15 15:24:13 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.37 ----------
+
+2020-03-15 15:24:13 INFO  ApacheHttpClient.createAsyncHttpClient(145) - 1 proxies selected. Type: DIRECT
+2020-03-15 15:24:13 INFO  ApacheHttpClient.<init>(96) - ApacheHttpClient was successfully instantiated.
+2020-03-15 15:24:15 INFO  ApacheHttpClient.testConnection(203) - responseCode = 200
+2020-03-15 15:24:15 INFO  ApacheHttpClient.testConnection(218) - result = true
+2020-03-15 15:24:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-03-15 15:24:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-03-15 15:24:16 INFO  ApacheHttpClient.refreshUserInfo(303) - responseCode = 200
+2020-03-15 15:24:16 INFO  ApacheHttpClient.refreshUserInfo(309) - User information received.
+2020-03-15 15:24:16 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-03-15 15:24:16 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-03-15 15:24:41 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-03-15 15:24:41 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-03-15 15:24:41 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-05-02 13:28:56 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-05-02 13:28:56 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.37 ----------
+
+2020-05-02 13:28:56 INFO  ApacheHttpClient.createAsyncHttpClient(145) - 1 proxies selected. Type: DIRECT
+2020-05-02 13:28:57 INFO  ApacheHttpClient.<init>(96) - ApacheHttpClient was successfully instantiated.
+2020-05-02 13:28:58 INFO  ApacheHttpClient.testConnection(203) - responseCode = 200
+2020-05-02 13:28:58 INFO  ApacheHttpClient.testConnection(218) - result = true
+2020-05-02 13:28:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-05-02 13:28:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-05-02 13:29:01 INFO  ApacheHttpClient.refreshUserInfo(303) - responseCode = 200
+2020-05-02 13:29:01 INFO  ApacheHttpClient.refreshUserInfo(309) - User information received.
+2020-05-02 13:29:01 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-05-02 13:29:01 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-05-02 13:54:15 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-05-02 13:54:15 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-05-02 13:54:15 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-05-08 17:55:45 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-05-08 17:55:45 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.37 ----------
+
+2020-05-08 17:55:45 INFO  ApacheHttpClient.createAsyncHttpClient(145) - 1 proxies selected. Type: DIRECT
+2020-05-08 17:55:45 INFO  ApacheHttpClient.<init>(96) - ApacheHttpClient was successfully instantiated.
+2020-05-08 17:55:48 INFO  ApacheHttpClient.testConnection(203) - responseCode = 200
+2020-05-08 17:55:48 INFO  ApacheHttpClient.testConnection(218) - result = true
+2020-05-08 17:55:49 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-05-08 17:55:49 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-05-08 17:55:50 INFO  ApacheHttpClient.refreshUserInfo(303) - responseCode = 200
+2020-05-08 17:55:50 INFO  ApacheHttpClient.refreshUserInfo(309) - User information received.
+2020-05-08 17:55:50 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-05-08 17:55:50 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-05-08 17:57:06 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-05-08 17:57:07 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-05-08 17:57:07 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-05-25 16:08:28 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-05-25 16:08:28 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.37 ----------
+
+2020-05-25 16:08:28 INFO  ApacheHttpClient.createAsyncHttpClient(145) - 1 proxies selected. Type: DIRECT
+2020-05-25 16:08:29 INFO  ApacheHttpClient.<init>(96) - ApacheHttpClient was successfully instantiated.
+2020-05-25 16:08:32 INFO  ApacheHttpClient.testConnection(203) - responseCode = 200
+2020-05-25 16:08:32 INFO  ApacheHttpClient.testConnection(218) - result = true
+2020-05-25 16:08:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-05-25 16:08:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(595) - Waiting for server response.
+2020-05-25 16:08:35 INFO  ApacheHttpClient.refreshUserInfo(303) - responseCode = 200
+2020-05-25 16:08:35 INFO  ApacheHttpClient.refreshUserInfo(309) - User information received.
+2020-05-25 16:08:35 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-05-25 16:08:35 INFO  AbstractRestApiClient.startService(71) - EventsService started.
