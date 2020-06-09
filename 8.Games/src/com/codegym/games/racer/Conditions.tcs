@@ -1,0 +1,28 @@
+taskKey="com.codegym.games.racer.part01"\n\n﻿Racer (Part 1/28)
+
+We invite you to write an exciting game — Racer. We'll start with the rules.
+1. The objective of the game is to reach the finish line by driving a race car on a busy race track.
+2. The score depends on how long the race lasts: the sooner a player finishes, the higher his or her score.
+3. The game is over when the player hits another car or an obstacle.
+
+Let's create the game's main class: RacerGame. To make use of the game engine, we'll make our class inherit the Game
+class, which has methods for implementing the game. To start, we need a playing field (64x64) to which we'll add game objects.
+Because the field's width and height will be used often in the game logic, it makes sense to create WIDTH and HEIGHT constants.
+Before the game starts, the initialize() method runs. Its purpose is to set up the game's initial state. You need to override it in the RacerGame class.
+
+In the initialize() method, you need to:
+1. set the dimensions of the playing field by calling setScreenSize(WIDTH, HEIGHT);
+2. disable display of the grid by calling showGrid(false).
+To complete the Racer task successfully, we recommend that you read this article about the "Games" section. It contains information that you'll find helpful when writing games.
+
+Requirements:
+1.	There must be a public RacerGame class.
+2.	The RacerGame class must inherit the Game class.
+3.	The RacerGame class must have a public static final int WIDTH field, initialized to 64 when it is declared.
+4.	The RacerGame class must have a public static final int HEIGHT field, initialized to 64 when it is declared.
+5.	In the RacerGame class, the initialize() method of the Game parent class must be overridden.
+6.	In the initialize() method, the Game class&#39;s showGrid(boolean) method must be called with false as the argument.
+7.	The Game class&#39;s setScreenSize(int, int) method must be called with arguments (WIDTH, HEIGHT) in the initialize() method.
+8.	The RacerGame class must have a statement that imports the entire contents of the com.codegym.engine.cell package.
+
+
