@@ -938,3 +938,7 @@
 2020-05-25 16:08:35 INFO  ApacheHttpClient.refreshUserInfo(309) - User information received.
 2020-05-25 16:08:35 INFO  ApacheHttpClient.startGA(35) - GAService started.
 2020-05-25 16:08:35 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-05-25 16:10:52 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-05-25 16:10:52 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
+2020-05-25 16:10:52 ERROR PluginUtil.getUserPropertyFromProjectByKey(319) - Error while using a key to get a property from properties file. : java.lang.NullPointerException
